@@ -26,7 +26,7 @@ dependencies {
 
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
 	implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
-
+	implementation("org.springframework.retry:spring-retry")
 }
 
 dependencyManagement {
